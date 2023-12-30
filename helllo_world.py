@@ -1,3 +1,5 @@
 print("new")
 print("hello")
 print("newww")
+print("new world")
+print(new hello wolrd")
